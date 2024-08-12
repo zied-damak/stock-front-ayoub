@@ -1,0 +1,20 @@
+<svg height="10.334" viewBox="0 0 10.323 10.334" width="10.323" xmlns="http://www.w3.org/2000/svg">
+  <g id="x" transform="translate(0.338 0.255)">
+    <g data-name="Icon [ICON=feather/check][SIZE=MEDIUM][STYLE=STYLE1]"
+       id="Icon_ICON_feather_check_SIZE_MEDIUM_STYLE_STYLE1_" transform="translate(0)">
+      <rect data-name="Area [ICON:feather/check][SIZE:MEDIUM][STYLE:STYLE1]"
+            fill="#fcfcfc" height="9.834" id="Area_ICON:feather_check_SIZE:MEDIUM_STYLE:STYLE1_" opacity="0"
+            width="9.834"/>
+      <g id="Icon" transform="translate(1.429 1.513)">
+        <path d="M16.807,7.5l-4.242,4.242L10.02,14.288" data-name="3323eb3c-a8d9-42c5-b773-c62953866fbd"
+              fill="none" id="_3323eb3c-a8d9-42c5-b773-c62953866fbd" stroke="#f80d38" stroke-linecap="round"
+              stroke-linejoin="round" stroke-width="2.5" transform="translate(-10.02 -7.5)"/>
+      </g>
+      <g data-name="Icon" id="Icon-2" transform="translate(1.429 1.524)">
+        <path d="M10.02,7.5l4.242,4.242,2.545,2.545" data-name="3323eb3c-a8d9-42c5-b773-c62953866fbd"
+              fill="none" id="_3323eb3c-a8d9-42c5-b773-c62953866fbd-2" stroke="#f80d38" stroke-linecap="round"
+              stroke-linejoin="round" stroke-width="2.5" transform="translate(-10.02 -7.5)"/>
+      </g>
+    </g>
+  </g>
+</svg>

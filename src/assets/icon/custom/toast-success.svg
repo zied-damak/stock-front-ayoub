@@ -1,0 +1,27 @@
+<svg height="21" viewBox="0 0 21 21" width="21"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip-path">
+      <circle cx="10.5" cy="10.5" data-name="Ellipse 233" fill="#57b6b1" id="Ellipse_233" r="10.5"
+              stroke="#707070" stroke-width="1" transform="translate(0 -0.001)"/>
+    </clipPath>
+  </defs>
+  <g data-name="YES MSG" id="YES_MSG" transform="translate(-1379 -5878)">
+    <g data-name="Groupe 18504" id="Groupe_18504">
+      <g clip-path="url(#clip-path)" data-name="Groupe de masques 15" id="Groupe_de_masques_15"
+         transform="translate(1379 5878)">
+        <rect data-name="Rectangle 17356" fill="#57b6b1" height="23" id="Rectangle_17356" opacity="0.87"
+              transform="translate(-1 -0.001)" width="24"/>
+      </g>
+      <g data-name="Groupe 17389" id="Groupe_17389" transform="translate(1383.973 5883.717)">
+        <g data-name="Groupe 17388" id="Groupe_17388" transform="translate(0 2.157) rotate(-13)">
+          <g data-name="Groupe 17126" id="Groupe_17126">
+            <path d="M9.334.257a.877.877,0,0,1,0,1.239L3.8,7.344a.876.876,0,0,1-1.239,0L.257,4.279A.876.876,0,0,1,1.5,3.04L3.176,5.486,8.095.257a.877.877,0,0,1,1.239,0" data-name="Tracé 11"
+                  fill="#163659"
+                  id="Tracé_11"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
